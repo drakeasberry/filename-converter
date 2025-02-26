@@ -6,6 +6,7 @@
 *.xlsx
 *.csv
 *.txt
+*.pdf
 
 # remove jetbrain local folder
 *.idea/
