@@ -1,0 +1,11 @@
+# Remove Autodesk files
+*.dwg
+*.rvt
+
+# Remove text files
+*.xlsx
+*.csv
+*.txt
+
+# remove jetbrain local folder
+*.idea/
