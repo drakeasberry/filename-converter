@@ -1,4 +1,6 @@
 # Imports
+import sys
 
 def close_action():
-    exit()
+    """Closes the application"""
+    sys.exit()
